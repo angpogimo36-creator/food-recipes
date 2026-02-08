@@ -24,7 +24,7 @@ The rest of the content blurs when the image is hovered.
 
 How to Use
 Clone this repository:
-git clone https://github.com/sandeep7631/Food-recipe-page-using-html-and-css.git
+git clone https://github.com/maryjane023852/Food-recipe-page-using-html-and-css.git
 Open the index.html file in any modern web browser to view the webpage.
 
 Screenshot
